@@ -11,7 +11,7 @@ Skills (not limited to)
 - Presenting to an audience, team member, mentor and caring for others
 - Gym, karate, long distance running and cats
 
-You're welcome to view my portfolio over on www.leslie-alldridge.dev where a few of my projects are listed.
+You're welcome to view my portfolio over on https://leslie-alldridge.dev/ where a few of my projects are listed.
 
 If you're wanting to see more detailed work, I'm happy to discuss as we use private repositories. 
 
