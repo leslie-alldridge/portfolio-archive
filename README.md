@@ -3,6 +3,7 @@
 Welcome to my portfolio. 
 
 Current Role: Site Reliability Engineer @ Xero
+
 Previous Experience: Full stack web development, Technical Support, Customer Experience
 
 Skills (not limited to)
