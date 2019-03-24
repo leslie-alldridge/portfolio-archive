@@ -6,7 +6,7 @@ Current Role: Site Reliability Engineer @ Xero
 
 Previous Experience: Full stack web development, Technical Support, Customer Experience
 
-Skills (not limited to)
+Skills & Interests (not limited to)
 - Python, React, Javascript, Typescript, AWS, CI pipelines
 - Presenting to an audience, team member, mentor and caring for others
 - Gym, karate, long distance running and cats
